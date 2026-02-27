@@ -68,9 +68,6 @@
 
 This project is optimized for search engines by focusing on key terms like **AI Review Analyzer**, **Sentiment Analysis with GPT-4**, and **Vector Search for Customer Feedback**. The architecture is designed for scalability and performance.
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 *Created with ❤️ by [Kim Eun-woo](https://github.com/ewkim188-jpg)*
